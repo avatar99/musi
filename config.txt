@@ -1,0 +1,6 @@
+owner=557181389100023839
+prefix=1
+game=1Play | Bater
+stayinchannel=true
+songinstatus=false
+token=NTk4OTQ1OTIyMzQ4NjEzNjUy.XSeB8w.-HKm-M47tb1wlOCGQv6mhKu5bO0
